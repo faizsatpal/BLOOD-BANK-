@@ -10,7 +10,7 @@ A Django-based web application to manage blood donations.
 ## Setup Instructions  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/BloodBankManagementSystem.git
+   git clone https://github.com/faizsatpal/BLOOD-BANK-.git
 INSTALL DEPENDENCIES pip install Django Pillow
 RUN THE SERVER python manage.py runserver
 
